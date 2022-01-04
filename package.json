@@ -1,0 +1,19 @@
+{
+  "name": "codewiki_api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.4"
+  },
+  "devDependencies": {
+    "pstree.remy": "^1.1.0"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "vishal",
+  "license": "ISC",
+  "description": ""
+}
